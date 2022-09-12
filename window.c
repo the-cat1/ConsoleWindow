@@ -1,8 +1,9 @@
 //Window
 //基于“ConsoleWindow”的一个Demo。
-//“ConsoleWindow”项目地址://TODO:地址
-//开始制作时间:              2022/8/24~2022/8/27
-//最后修改时间:              2022/9/10
+//“ConsoleWindow”项目地址:   	https://github.com/the-cat1/ConsoleWindow
+//开始制作时间:              	2022/8/24~2022/8/27
+//最后修改时间:              	2022/9/10
+//By the-cat1
 
 #include <conio.h>
 #include <stdio.h>

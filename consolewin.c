@@ -1,8 +1,9 @@
 //ConsoleWindow
 //“ConsoleWindow”是一个帮助你在cmd绘制窗口的库。
-//项目地址:                //TODO:132
-//项目最后上传时间:         2022/9/10
-//项目版本:                Version 1.0
+//项目地址:                		https://github.com/the-cat1/ConsoleWindow
+//项目最后上传时间:         	2022/9/10
+//项目版本:                 	Version 1.0
+//By the-cat1
 
 #include <stdio.h>
 #include <stdlib.h>

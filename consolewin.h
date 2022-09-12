@@ -1,7 +1,14 @@
+//ConsoleWindow
+//“ConsoleWindow”是一个帮助你在cmd绘制窗口的库。
+//项目地址:                		https://github.com/the-cat1/ConsoleWindow
+//项目最后上传时间:         	2022/9/10
+//项目版本:                 	Version 1.0
+//By the-cat1
+
 #ifndef __CONSOLEWIN__
 #define __CONSOLEWIN__ "1.0"
 
-//Bool类型    
+//Bool类型
 #define _True 1
 #define _False 0
 
