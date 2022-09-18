@@ -58,7 +58,6 @@ void DrawWindow(Window window) {
         writtenPos.Y = i + window.dy;
         FillConsoleOutputAttribute(outputHand, 0x8F, 1, writtenPos, &getWrittenCount);
     }
-    
 }
 
 void CenterWindow(Window* window) {

@@ -51,7 +51,7 @@
                                 "是否退出?(Y:退出,N:继续)"
 
 //骗人的脚本(凑齐100个字符)
-#define BAT_SCRIPT             "@echo off\n"\
+#define BAT_SCRIPT              "@echo off\n"\
                                 "chcp 65001\n"\
                                 "title YourDos\n"\
                                 "tree C:\\Windows\n"\
