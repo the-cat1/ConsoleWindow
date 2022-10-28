@@ -13,7 +13,7 @@
 
 #define START_CHARS             110
 #define START_LINES             40
-#define MAIN_WINDOW_X           50
+#define MAIN_WINDOW_X           65
 #define MAIN_WINDOW_Y           20
 #define MAIN_WINDOW_INSTALL_X   53
 #define MAIN_WINDOW_INSTALL_Y   2	
@@ -43,7 +43,7 @@
 //安装须知
 #define LICENSE                 "本程序只供测试和演示!\n"\
                                 "所用到的库是“ConsoleWindow”。\n\n"\
-                                "项目地址:           |https:\\\\\n"/*TODO:项目地址on LICENSE*/\
+                                "项目地址:           |https://github.com/the-cat1/ConsoleWindow\n"\
                                 "本程序创建时间:     |2022/8/29(左右)\n"
 
 //退出信息
@@ -53,12 +53,13 @@
 //骗人的脚本(凑齐100个字符)
 #define BAT_SCRIPT              "@echo off\n"\
                                 "chcp 65001\n"\
-                                "title YourDos\n"\
+                                "title -YourDos-\n"\
                                 "tree C:\\Windows\n"\
-                                "title 操作已完成!\n"\
+								"title 启动YourDos\n"\
                                 "timeout 3\n"\
+                                "C:"\
                                 "start cmd\n"\
-                                "exit\n"
+                                "exit"
 
 #define ExitBeep Beep(300, 500)                  //退出声
 #define TipsBeep Beep(800, 100)                  //提示声

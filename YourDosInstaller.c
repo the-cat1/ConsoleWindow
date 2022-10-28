@@ -102,7 +102,7 @@ int main(int argc, char const *argv[])
         .window = _True
     };
     Button   InstallButton   = {
-        .dx = 41,
+        .dx = 52,
         .dy = 18,
         .selet = BUTTON_SELET_STYLE,
         .fc = 30,
