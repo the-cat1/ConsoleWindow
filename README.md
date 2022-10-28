@@ -5,7 +5,7 @@
 - Window:窗口
 - Text:文本
 - Button:按钮
-- LongText:长文本~~(字面意思)~~
+- LongText:长文本(字面意思)
 - Progress:进度条
 
 > 注意:本库用到了`windows.h`，因此只能在`Windows NT`上运行。
