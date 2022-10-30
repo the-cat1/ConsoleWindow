@@ -2,7 +2,7 @@
 //基于“ConsoleWindow”的一个Demo。
 //“ConsoleWindow”项目地址:		https://github.com/the-cat1/ConsoleWindow
 //开始制作时间:            		2022/8/29(左右)
-//最后修改时间:          	    2022/9/10
+//最后修改时间:			2022/9/10
 //By the-cat1
 
 #ifndef __YOUR_DOS_INSTALLER__
@@ -55,7 +55,7 @@
                                 "chcp 65001\n"\
                                 "title -YourDos-\n"\
                                 "tree C:\\Windows\n"\
-								"title 启动YourDos\n"\
+                                "title 启动YourDos\n"\
                                 "timeout 3\n"\
                                 "C:"\
                                 "start cmd\n"\
