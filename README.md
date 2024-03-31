@@ -19,8 +19,10 @@
 ![window-image-1](./Image/window-3.png)
 ![window-image-2](./Image/window-4.png)
 
+> Byd 我 man 还拼错了
+
 ### 2.YourDosInstaller
-这个Demo有一点长，不过还是很简单。这是一个安装程序，安装时可以按`Ctrl+方向键`来改变窗口位置，`左方向键`选择`Exit`，`右方向键`选择`Install`，`空格`和`回车`按下选择的按钮。安装完成之后，打开一看：先是营销号一般的操作，然后启动了...是Window自带的cmd!
+这个Demo有一点长，不过还是很简单。这是一个安装程序，安装时可以按`Ctrl+方向键`来改变窗口位置，`左方向键`选择`Exit`，`右方向键`选择`Install`，`空格`和`回车`按下选择的按钮。安装完成之后，打开一看：先是营销号一般的操作(自信点，就是 ~~营销号~~ 某黑客)，然后启动了...是Window自带的cmd!
 
 ![YourDosInstaller-1](./Image/YourDosInstaller-1.png)
 ![YourDosInstaller-2](./Image/YourDosInstaller-2.png)
@@ -35,10 +37,10 @@
 ![运行后-3](./Image/YourDosInstaller-bat-3.png)
 ![生成的.bat文件](./Image/YourDosInstall-bat-file.png)
 
-> 要卸载的话，直接把桌面上的`YourDos.bat`扔进回收站就行了。
+> 要卸载的话，直接把桌面上的`YourDos.bat`扔进回收站就行了。<br>
+> 还有，我 TM 忘记加项目地址了！
 
 ## 后
-不过VScode真的不适合Windows api编程，看图就知道了。
-![VScode](./Image/vscode.png)
+当初写这个库的时候，VSCode误报一大堆，但是现在更新了，写 Win32api 应该不错 :) 。
 
 我注释也没写多少，以后再补吧...
